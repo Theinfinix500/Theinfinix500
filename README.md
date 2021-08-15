@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!-- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a Human being first, Problem solver, and Developer!!
+## I'm a Human being first, Problem solver, and Software Developer!!
 
 - 🔭 I’m currently working on a saas project
 - 🌱 I’m currently learning everything 🤣
