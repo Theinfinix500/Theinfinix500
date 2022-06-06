@@ -21,10 +21,8 @@ Here are some ideas to get you started:
 
 ## I'm a Human being first, Problem solver, and Software Developer!!
 
-- 🔭 I’m currently working on a saas project
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate on javascript and typescript projects (react - angular ...)
-- ⚡ Fun fact: I love the mechanics of bikes and watch football also do some pull ups hehe!
+- 👯 I’m looking to collaborate on javascript and typescript projects (Angular - React)
+- ⚡ Fun fact: I love Mechanical engineering and Football also do some Calisthenics!
 
 ### Connect with me:
 
