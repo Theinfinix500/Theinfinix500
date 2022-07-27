@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Abdelali - aka [theinfinix500][website] 👋
 
-[![Website](https://img.shields.io/website?label=djebara-abdelali.com&style=for-the-badge&url=https%3A%2F%2Fdjebara-abdelali.com)](https://djebara-abdelali.com/)
+[![Website](https://img.shields.io/website?label=theinfinix500.com&style=for-the-badge&url=https%3A%2F%2Ftheinfinix500.com)](https://theinfinix500.com/)
 <!-- 
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
@@ -65,6 +65,6 @@ Here are some ideas to get you started:
 
 ---
 
-[website]: https://djebara-abdelali.com/
+[website]: https://theinfinix500.com/
 [twitter]: https://twitter.com/theinfinix500
-[linkedin]: https://www.linkedin.com/in/abdelali-djebara-95656b167/
+[linkedin]: https://www.linkedin.com/in/djebara-abdelali/
